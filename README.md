@@ -1,5 +1,7 @@
 # Some-js-scripts-for-FB2K
 
+> 建议用本fork下游的仓库: https://github.com/xiaopc/Some-js-script-for-FB2K
+
 ## ncm.js
 FB2K ESLyric 下的能获取网易云音乐歌词并进行一些处理的脚本
 
